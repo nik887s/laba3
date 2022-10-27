@@ -1,0 +1,4 @@
+﻿  laba 3.3.c
+C:\Users\NIK\source\repos\laba 3.3\laba 3.3\laba 3.3.c(29,9): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\NIK\source\repos\laba 3.3\laba 3.3\laba 3.3.c(32,26): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  laba 3.3.vcxproj -> C:\Users\NIK\source\repos\laba 3.3\x64\Debug\laba 3.3.exe
